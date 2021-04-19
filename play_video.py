@@ -40,4 +40,5 @@ while True:
         break
 
 cap.release()
+out.release()
 cv.destroyAllWindows()
